@@ -7,3 +7,4 @@ ended: -
 status: wip  
 ## data
 25/05/2025: typewriter.py: mimic typing  
+28/05/2025: visual_bubble_sort.py: visual bubble sort
